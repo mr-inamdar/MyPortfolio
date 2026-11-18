@@ -15,7 +15,7 @@ function Footer() {
       </div>
       <div className="footer-links"><h3>Quick Links</h3><a href="#home">Home</a><a href="#about">About Me</a><a href="#projects">Projects</a><a href="#contact">Contact</a></div>
       <div className="footer-links"><h3>My Skills</h3><a href="#about">Web Development</a><a href="#about">Frontend Development</a><a href="#about">Backend Development</a><a href="#about">Problem Solving</a></div>
-      <div className="footer-contact"><h3>Let's Connect</h3><p>Have a project or collaboration idea?</p><a href="mailto:hello@example.com" className="email-link">hello@example.com</a><a href="mailto:hello@example.com" className="footer-btn">Let's Talk ↗</a></div>
+      <div className="footer-contact"><h3>Let's Connect</h3><p>Have a project or collaboration idea?</p><a href="mailto:zinamdar2602@gmail.com" className="email-link">zinamdar2602@gmail.com</a><a href="mailto:zinamdar2602@gmail.com" className="footer-btn">Let's Talk ↗</a></div>
     </div>
     <div className="footer-bottom"><p>© 2026 M.Zeeshan Inamdar. All Rights Reserved.</p><p>Made with <span>♥</span> and creativity.</p><a href="#home">Back to Top ↑</a></div>
   </footer>;
